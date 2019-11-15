@@ -17,7 +17,7 @@
 6. 根据提示调整终端大小，宁可以使用ctrl+鼠标滚轮，或ctrl+加号或减号进行调整
 7. __奥利给！！！__
 
-### 原理
+### 原 理
 
 [CSI转义序列 https://w.upupming.site/wiki/ANSI%E8%BD%AC%E4%B9%89%E5%BA%8F%E5%88%97#CSI%E5%BA%8F%E5%88%97](https://w.upupming.site/wiki/ANSI%E8%BD%AC%E4%B9%89%E5%BA%8F%E5%88%97#CSI%E5%BA%8F%E5%88%97)（感谢大佬的镜像地址，可以不用科学上网了:smile:)
 
@@ -39,3 +39,7 @@ echo "\x1b[31mHello world\x1b[39m AO LI GEI"
 <blockquote>
     我们遇到什么程序，都不要怕，微笑着面对它，消除bug的最好方法就是不断的写更多的新bug。坚持，才是胜利！加油，奥利给！！！------朝阳冬泳怪猿
 <blockquote>
+
+### 赠 品
+1. 坤坤打篮球
+2. 坏苹果
