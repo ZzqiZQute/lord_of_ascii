@@ -1,6 +1,6 @@
 ## A S C I I 之 主
 
-![A S C I I 之 主]()
+![A S C I I 之 主](https://github.com/ZzqiZQute/lord_of_ascii/blob/master/lord_of_terminal.gif)
 
 宁好，欢迎宁来前来围观:joy:,请宁先阅读以下注意事项
 
