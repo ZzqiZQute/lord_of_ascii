@@ -38,7 +38,7 @@ echo "\x1b[31mHello world\x1b[39m AO LI GEI"
 
 <blockquote>
     我们遇到什么程序，都不要怕，微笑着面对它，消除bug的最好方法就是不断的写更多的新bug。坚持，才是胜利！加油，奥利给！！！------朝阳冬泳怪猿
-<blockquote>
+</blockquote>
 
 ### 赠 品
 1. 坤坤打篮球
