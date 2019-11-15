@@ -29,7 +29,8 @@ echo "\x1b[31mHello world\x1b[39m AO LI GEI"
 ```
 上述代码输出了
 
-<span style="color:red">Hello world</span> AO LI GEI 
+[](https://github.com/ZzqiZQute/lord_of_ascii/blob/master/helloworldaoligei.png)
+ 
 
 的字样
 
