@@ -29,7 +29,7 @@ echo "\x1b[31mHello world\x1b[39m AO LI GEI"
 ```
 上述代码输出了
 
-[](https://github.com/ZzqiZQute/lord_of_ascii/blob/master/helloworldaoligei.png)
+![aoligei](https://github.com/ZzqiZQute/lord_of_ascii/blob/master/helloworldaoligei.png)
  
 
 的字样
